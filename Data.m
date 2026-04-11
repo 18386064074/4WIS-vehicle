@@ -47,7 +47,7 @@ Fi=Ti/r;
 %PID parameters
 pd=100;
 id=0.01;
-dd=2;
+dd=0.01;
 
 pk=300;
 ik=1;
